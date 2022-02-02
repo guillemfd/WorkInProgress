@@ -22,7 +22,7 @@ const Background = () => {
                 value: "#ffffff",
               },
             },
-            fpsLimit: 60,
+            fpsLimit: 120,
             interactivity: {
               events: {
                 onClick: {
@@ -83,7 +83,7 @@ const Background = () => {
               number: {
                 density: {
                   enable: true,
-                  area: 800,
+                  area: 1500,
                 },
                 value: 80,
               },

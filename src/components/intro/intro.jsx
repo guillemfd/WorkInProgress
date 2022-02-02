@@ -35,10 +35,10 @@ const Intro = () => {
             <div className="i-right">
                 <div className='i-bg'></div>
                 <div className='i-right-wrapper'>
-                    <h2 className='i-right-intro'>Website is under</h2>
+                    <h2 className='i-right-intro'>Website under</h2>
                     <h1 className='i-right-name'><span style={{color: 'white'}}>🛠</span> MAINTENANCE <span style={{color: 'white'}}>🛠</span></h1>
-                    <p>in the meanwhile you can contact me at guillemfd@guillemfd.com</p>
-                    <p className='i-right-desc'>(please come back soon!)</p>
+                    <p>in the meanwhile you can contact me at <span style={{color: 'white'}}>guillemfd@guillemfd.com</span></p>
+                    <p className='i-right-desc'>(please, come back soon!)</p>
                 </div>
             </div>
 

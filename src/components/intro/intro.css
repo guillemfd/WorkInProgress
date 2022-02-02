@@ -73,21 +73,21 @@
     z-index: -10;
 }
 
-.i-right-intro {
+/* .i-right-intro {
     margin-top: 30%;
-}
+} */
 
 .i-right-name {
     font-size: 50px;
 }
 
-.i-right-desc {
+/* .i-right-desc {
     margin-bottom: 30%;
-}
+} */
 
 .i-right-wrapper {
     padding: 50px;
-    height: 50%;
+    height: 20%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;

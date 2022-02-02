@@ -1,5 +1,4 @@
 import './App.css';
-import About from './components/about/about';
 import Background from './components/background/background';
 import Intro from './components/intro/intro';
 
@@ -8,7 +7,6 @@ function App() {
     <div className="App">
       <Background />
       <Intro />
-      <About />
     </div>
   );
 }

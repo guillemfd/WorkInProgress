@@ -63,7 +63,7 @@ const Background = () => {
                 ]
               },
               links: {
-                color: "#ffff85",
+                color: "#ffffff",
                 distance: 150,
                 enable: true,
                 opacity: 0.5,
